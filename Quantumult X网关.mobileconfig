@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>PassworD</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.04712DC6-744C-4E53-ABE4-8475E2C285B6</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>04712DC6-744C-4E53-ABE4-8475E2C285B6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Redmi_A93C_5G</string>
+		</dict>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>rootCA.crt</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIExDCCA6ygAwIBAgIRAJGZYSe11vlRtd1q9XB2AWowDQYJKoZI
+			hvcNAQELBQAwgZExCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJDQTEL
+			MAkGA1UEBwwCTEExFTATBgNVBAoMDFF1YW50dW11bHQgWDEhMB8G
+			A1UECwwYUXVhbnR1bXVsdCBYIENlcnRpZmljYXRlMS4wLAYDVQQD
+			DCVRdWFudHVtdWx0IFggQ0EgODI0RjQyNUQgKDQgRmViIDIwMjIp
+			MB4XDTE0MDIwNTE2MTA0OVoXDTMwMDIwMTE2MTA0OVowgZExCzAJ
+			BgNVBAYTAlVTMQswCQYDVQQIDAJDQTELMAkGA1UEBwwCTEExFTAT
+			BgNVBAoMDFF1YW50dW11bHQgWDEhMB8GA1UECwwYUXVhbnR1bXVs
+			dCBYIENlcnRpZmljYXRlMS4wLAYDVQQDDCVRdWFudHVtdWx0IFgg
+			Q0EgODI0RjQyNUQgKDQgRmViIDIwMjIpMIIBIDANBgkqhkiG9w0B
+			AQEFAAOCAQ0AMIIBCAKCAQEAtEvsv1rX4XP3ybR02bgVk2LSPY89
+			5Q2sJJND04TkfkxPALryR70vxipEq4s1QoFXkvIu4mBlyJVEL/VW
+			oxFBwZNN7R6dAwnVtUmUM7W5Ij7yc1GFs4zKBC5tNpfGCBi8NBAZ
+			F4krcdK00g9kQKptGFaqZ6/5QDy1iR5w1N6TxZvBi45BF5bK2/Mp
+			+0JKKowpEi8J8AeJsSWwC+uy/KxAX+cWWug4yN8Dc6iRxPNlW4B3
+			hcUBbl7Ko7mJhJhbcD3pkl8khy9GJGe3vKiTKsn2PLSgoEy7e22Q
+			Ktyr5Izw7dMan1FoiZy8NwNhbkrgzO7fDw8J9C9lzJMRn6gR1zB8
+			0wIBA6OCARUwggERMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/
+			BAQDAgGGMB0GA1UdDgQWBBQ2k04O8q0Te3DeXPsHkKhnNQurlTCB
+			zgYDVR0jBIHGMIHDgBQ2k04O8q0Te3DeXPsHkKhnNQurlaGBl6SB
+			lDCBkTELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAkNBMQswCQYDVQQH
+			DAJMQTEVMBMGA1UECgwMUXVhbnR1bXVsdCBYMSEwHwYDVQQLDBhR
+			dWFudHVtdWx0IFggQ2VydGlmaWNhdGUxLjAsBgNVBAMMJVF1YW50
+			dW11bHQgWCBDQSA4MjRGNDI1RCAoNCBGZWIgMjAyMimCEQCRmWEn
+			tdb5UbXdavVwdgFqMA0GCSqGSIb3DQEBCwUAA4IBAQBGMowO8y8q
+			SWU1S308u2iyKou2GRsD/z1cLE8kBnO754Emmk/sP3RCNAbRnO6I
+			KfBH6xC30rSfDPvU+cq9HjPssOLLNg0t6FedmvIlYOBzoXBKz6bz
+			+Sb4zeZJKKhFZTu9cf2+FhZLm2rVzxEt2GrluTmRdVPnKo254f5t
+			IAqDyRu+wGuEcXFkD84LgXP2pxNqIMkmHdw3n5odcMON4mdXGwhB
+			hB/Y4DfAMJfeKn9t5893OI7b3Pk6j2ncLfT9bcbYPCVGlg4KAKn8
+			MfwbICtKkG+Z5fbrK2fdeZbqBMhkFCpcIXB5VMtB4Pq9otK/1ybr
+			CSJaVXAJnxuv7NLt0t/Z
+			</data>
+			<key>PayloadDescription</key>
+			<string>添加 CA 根证书</string>
+			<key>PayloadDisplayName</key>
+			<string>Quantumult X CA 824F425D (4 Feb 2022)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.security.root.0E2E5E9E-624C-4757-ACDD-8B8C06D264CC</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>0E2E5E9E-624C-4757-ACDD-8B8C06D264CC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Quantumult X网关</string>
+	<key>PayloadIdentifier</key>
+	<string>MacBookPro183.AB6FBB9B-0D10-4A7F-A951-FA7B92FA1E7F</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9A4C3A89-E152-406C-B9B9-EB7CCA3A958B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
